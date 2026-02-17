@@ -1,0 +1,11 @@
+text,label,cleaned_text,final_text,encoded_label
+I love Natural Language Processing!,positive,i love natural language processing,love natural language processing,1
+NLP is amazing and powerful.,positive,nlp is amazing and powerful,nlp amazing powerful,1
+I hate spam messages.,negative,i hate spam messages,hate spam message,0
+"This movie was absolutely fantastic, I enjoyed it a lot!",positive,this movie was absolutely fantastic i enjoyed it a lot,movie absolutely fantastic enjoyed lot,1
+The service was terrible and the staff was rude.,negative,the service was terrible and the staff was rude,service terrible staff rude,0
+I am very happy with the product quality.,positive,i am very happy with the product quality,happy product quality,1
+"Worst experience ever, totally disappointed.",negative,worst experience ever totally disappointed,worst experience ever totally disappointed,0
+The delivery was quick and packaging was good.,positive,the delivery was quick and packaging was good,delivery quick packaging good,1
+"Not satisfied, the item is damaged and useless.",negative,not satisfied the item is damaged and useless,satisfied item damaged useless,0
+"Excellent support team, they solved my issue quickly!",positive,excellent support team they solved my issue quickly,excellent support team solved issue quickly,1
